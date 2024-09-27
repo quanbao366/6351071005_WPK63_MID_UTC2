@@ -6,21 +6,11 @@
 //     the code is regenerated. 
 // </auto-generated>
 //------------------------------------------------------------------------------
-
 namespace de1
 {
 
 
     public partial class search
     {
-
-        /// <summary>
-        /// ucSearch1 control.
-        /// </summary>
-        /// <remarks>
-        /// Auto-generated field.
-        /// To modify move field declaration from designer file to code-behind file.
-        /// </remarks>
-        protected global::de1.UserControl.ucSearch ucSearch1;
     }
 }
