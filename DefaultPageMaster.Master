@@ -5,7 +5,7 @@
 <head runat="server">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bui_Hoan_Duy_6351071012_MaDe2</title>
+    <title>TranQuanBao_6351071005_WP002</title>
     <!-- Sinh viên ghi chú thông tin như cú pháp yêu cầu trong thẻ title-->
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
